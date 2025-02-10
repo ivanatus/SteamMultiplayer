@@ -58,3 +58,4 @@ while(steam_net_packet_receive()){
 		    break;
 			
 	}
+}
