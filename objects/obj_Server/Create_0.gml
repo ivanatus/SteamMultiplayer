@@ -10,5 +10,5 @@ character = undefined;
 player_list[0] = {
 	steam_id: steam_id,
 	steam_name: steam_name,
-	//character: grabSpawnPoint(0)
+	character: grabSpawnPoint(0)
 };
